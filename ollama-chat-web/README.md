@@ -240,14 +240,6 @@ The application communicates directly with the Ollama API:
 3. **Message Processing**: Send user input and receive AI responses
 4. **Quit Detection**: Use AI to detect conversation end intent
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## License
 
 This project is part of the Ollama Chat application suite. See the main project for licensing information.

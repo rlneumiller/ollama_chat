@@ -1,3 +1,5 @@
+# Experimental - Created to flesh out some ideas - not for production use - you at your own risk
+
 - Created from my ollama_chat_app repo on github for the most part from one prompt with Minimax agent.
 - Required only a minor edit of the package.json to get "pnpm dev" to start up on my machine
 
